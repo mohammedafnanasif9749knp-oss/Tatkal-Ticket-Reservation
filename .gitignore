@@ -1,0 +1,9 @@
+**/target/
+*.class
+*.mv.db
+*.trace.db
+*.lock.db
+*.log
+.env
+.env.*
+!.env.example
